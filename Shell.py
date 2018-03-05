@@ -1,8 +1,8 @@
 import subprocess, socket
 
-HOST = '192.168.1.107'
+HOST = ''
 PORT = 2222
-PASSWORD = "kahn_online"
+PASSWORD = ""
 
 def login():
     global socketOB
